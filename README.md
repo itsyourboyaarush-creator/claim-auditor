@@ -1,4 +1,3 @@
-tests/test_pipeline.py    offline tests (fake client, no API key needed)
 # Claim Auditor
 
 Claim Auditor extracts checkable claims from a document and evaluates how well the document supports each one. It produces a Markdown report and machine-readable JSON, including a deterministic evidence score.
